@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Graphicks
-- 👀 I’m interested in ... porn 
-- 🌱 I’m currently learning ... porn
-- 💞️ I’m looking to collaborate on ... porn
-- 📫 How to reach me ... pornhub/graphicks
+- 👀 I’m interested in COMPUTERS AND STUFF
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on NOTHING
+- 📫 How to reach me harvey.warren@hotmail.co.uk
 
 <!---
 Graphicks/Graphicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
