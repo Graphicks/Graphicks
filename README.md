@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Graphicks
 - 👀 I’m interested in COMPUTERS AND STUFF
 - 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on NOTHING, FUCK OFF
 - 📫 How to reach me harvey.warren@hotmail.co.uk
 
 <!---
