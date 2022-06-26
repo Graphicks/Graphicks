@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Graphicks
-- 👀 I’m interested in COMPUTERS AND STUFF
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in Python + Web development
+- 🌱 I’m currently learning Python 3 + Web development
 - 📫 How to reach me harvey.warren@hotmail.co.uk
 
 <!---
